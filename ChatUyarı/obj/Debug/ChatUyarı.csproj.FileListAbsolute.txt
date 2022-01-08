@@ -1,0 +1,16 @@
+C:\Users\Rabiye\source\repos\ChatUyarı\ChatUyarı\bin\Debug\ChatUyarı.dll
+C:\Users\Rabiye\source\repos\ChatUyarı\ChatUyarı\bin\Debug\ChatUyarı.pdb
+C:\Users\Rabiye\source\repos\ChatUyarı\ChatUyarı\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Rabiye\source\repos\ChatUyarı\ChatUyarı\bin\Debug\Assembly-CSharp.dll
+C:\Users\Rabiye\source\repos\ChatUyarı\ChatUyarı\bin\Debug\Rocket.API.dll
+C:\Users\Rabiye\source\repos\ChatUyarı\ChatUyarı\bin\Debug\Rocket.Core.dll
+C:\Users\Rabiye\source\repos\ChatUyarı\ChatUyarı\bin\Debug\Rocket.Unturned.dll
+C:\Users\Rabiye\source\repos\ChatUyarı\ChatUyarı\bin\Debug\SDG.NetTransport.dll
+C:\Users\Rabiye\source\repos\ChatUyarı\ChatUyarı\bin\Debug\Steamworks.NET.dll
+C:\Users\Rabiye\source\repos\ChatUyarı\ChatUyarı\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Rabiye\source\repos\ChatUyarı\ChatUyarı\bin\Debug\UnityEngine.dll
+C:\Users\Rabiye\source\repos\ChatUyarı\ChatUyarı\obj\Debug\ChatUyarı.csproj.AssemblyReference.cache
+C:\Users\Rabiye\source\repos\ChatUyarı\ChatUyarı\obj\Debug\ChatUyarı.csproj.CoreCompileInputs.cache
+C:\Users\Rabiye\source\repos\ChatUyarı\ChatUyarı\obj\Debug\ChatUyarı.csproj.CopyComplete
+C:\Users\Rabiye\source\repos\ChatUyarı\ChatUyarı\obj\Debug\ChatUyarı.dll
+C:\Users\Rabiye\source\repos\ChatUyarı\ChatUyarı\obj\Debug\ChatUyarı.pdb
