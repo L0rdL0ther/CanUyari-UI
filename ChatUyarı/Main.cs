@@ -24,20 +24,7 @@ namespace ChatUyarı
             UnturnedPlayerEvents.OnPlayerRevive += dirildi;
             U.Events.OnPlayerConnected += Bağlandı;
             Instance = this;
-            Logger.Log("***************************************|");
-            Logger.Log("                                       |");
-            Logger.Log("     Babanenizin en sevdiği plugin     |");
-            Logger.Log("                                       |");
-            Logger.Log("                                       |");
-            Logger.Log("                                       |");
-            Logger.Log($"{name}{Assembly.GetName().Version} Chat Uyarı |Anancılık plugin|");
-            Logger.Log("                                       |");
-            Logger.Log("               Vidanjör                |");
-            Logger.Log("                                       |");
-            Logger.Log("                                       |");
-            Logger.Log(" Dikkat Babennize Bağımlılık yapabilir |");
-            Logger.Log("                                       |");
-            Logger.Log("***************************************|");
+           
         }
 
         
@@ -80,20 +67,7 @@ namespace ChatUyarı
             UnturnedPlayerEvents.OnPlayerRevive -= dirildi;
             U.Events.OnPlayerConnected -= Bağlandı;
             Instance = null;
-            Logger.Log("***************************************|");
-            Logger.Log("                                       |");
-            Logger.Log("     Babanenizin en sevdiği plugin     |");
-            Logger.Log("                                       |");
-            Logger.Log("                                       |");
-            Logger.Log("                                       |");
-            Logger.Log($"{name}{Assembly.GetName().Version} Plugin Başarılı Bir Şekilde Unload Olmuştur|Anancılık plugin|");
-            Logger.Log("                                       |");
-            Logger.Log("               Vidanjör                |");
-            Logger.Log("                                       |");
-            Logger.Log("                                       |");
-            Logger.Log(" Dikkat Babennize Bağımlılık yapabilir |");
-            Logger.Log("                                       |");
-            Logger.Log("***************************************|");
+            
         }
 
     }
